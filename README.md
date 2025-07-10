@@ -1,6 +1,6 @@
 <h1 style = font-size:2.5rem; font-weight:bold>
 Hi 👋, I'm Sathvik Sherugar<br></h1>
-I'm a 2025 fresher with skills in Python, HTML, CSS, SQL, <br>and JavaScript. Are there any entry-level openings.
+I'm a 2025 fresher with skills in Python, HTML, CSS, SQL, <br>and JavaScript.
 
 
 ## 🌐 Socials:
